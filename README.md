@@ -1,0 +1,1 @@
+Project for my studies about java
